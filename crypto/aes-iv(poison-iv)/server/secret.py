@@ -13,7 +13,7 @@ response = raw_input()
 if response == answer:
 	print "\nVery good! Sending you the flag.."
 	sys.stdout.flush()
-	print "Here is the flag: FLAG{Po1s0n_IV}\n"
+	print "Here is the flag: FLAG{AeS_1V_Be4ts_128k3y}\n"
 	sys.stdout.flush()
 else:
 	print "How did you come up with that one??"
