@@ -1,0 +1,6 @@
+echo -n 'complexPasswordWhichContainsManyCharactersWithRandomSuffixeghjrjg' | shasum | xxd -r -p
+
+problem: Can you log into our application and get the flag for us?
+given: logic
+hint: Can you collide your logic with the given logic?
+

@@ -1,0 +1,2 @@
+python -m base64 -e <<< String
+python -m base64 -d <<< String

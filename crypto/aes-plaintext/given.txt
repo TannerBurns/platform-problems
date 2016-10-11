@@ -1,0 +1,18 @@
+Original: 
+
+	Pass: sup3r31337. Don't loose it!
+
+Encrypted:
+
+	4f3a0e1791e8c8e5fefe93f50df4d8061fee884bcc5ea90503b6ac1422bda2b2b7e6a975bfc555f44f7dbcc30aa1fd5e
+
+IV:
+	19a9d10c3b155b55982a54439cb05dce
+
+Decrypted:
+
+	Pass: notAs3cre7. Don't loose it!
+
+Question:
+	
+	Can you modify the original to look like the decrypted version? You might have to study up on your aes-cbc.

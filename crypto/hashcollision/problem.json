@@ -1,0 +1,10 @@
+{"name": "Bumper Cars",
+ "score": 100,
+ "category": "Cryptography",
+ "grader": "crypto/bumper-cars/grader.py",
+ "generator": "crypto/bumper-cars/generator.py",
+ "description": "",
+ "threshold": 0,
+ "autogen": true,
+ "weightmap": {},
+ "hint": "Can you find a stronger car?"}

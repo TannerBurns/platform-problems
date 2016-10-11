@@ -1,0 +1,26 @@
+openssl rsa -pubin -in public_key.pem -text -noout
+
+Modulus (256 bit):
+    00:b7:bc:eb:2e:74:9f:96:0b:49:0d:89:90:e1:f9:
+    34:0d:df:50:bb:d1:99:c8:c8:f3:88:53:7f:d3:2a:
+    a7:c8:01
+Exponent: 65537 (0x10001)
+
+yafu-tool for factorizing
+
+use python to convert, then use str.decode 0x
+string.split(‘:’)
+total+=string
+dec=int(total,16) or total2=“0x”+total -> dec=int(total2,0)
+
+modulus split and joined:
+00b7bceb2e749f960b490d8990e1f9340ddf50bbd199c8c8f388537fd32aa7c801
+
+decimal version:
+83107041701747003548951619916073267657052136454079830436578267127977699952641
+
+yafu:
+factor(83107041701747003548951619916073267657052136454079830436578267127977699952641)
+
+p1=282238357022244718977290902746061069487
+p2=294456935544012154828625255162223768143

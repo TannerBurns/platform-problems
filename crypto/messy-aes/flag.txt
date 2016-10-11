@@ -1,0 +1,7 @@
+Given:
+
+po6vko2hb574zjwxurkayebnio33mnmuhwhhvtwk2tlqsghnasyb2kfmzu7ckz7lrvcabdsmisereryubq
+
+Flag:
+
+FLAG{sorts_gross_spoon_programmers_exchangers_heap}
