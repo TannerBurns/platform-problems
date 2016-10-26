@@ -26,8 +26,8 @@ for shft in range(5,16):
             rpt=''
     print shft, rpcnt[shft], rpmax[shft].encode('hex')
 
-# guess key length is 8
-keysize=8
+# guess key length is ?#
+keysize=6
 
 # regroup ciper text
 ctg={}
